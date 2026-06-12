@@ -1,0 +1,16 @@
+.cont-app{
+    background-color: rgba(102, 51, 153, 0.428);
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.imagens-gerais{
+    width: 10%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rebeccapurple;
+    margin: 20px;
+}
