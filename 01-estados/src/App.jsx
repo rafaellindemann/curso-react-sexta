@@ -1,5 +1,8 @@
 import './App.css'
 import { useState } from 'react'
+import Peba from './components/Peba'
+import PePequeno from './components/PePequeno'
+
 
 function App() {
   const [rendimento, setRendimento] = useState(12000)
@@ -20,6 +23,10 @@ function App() {
   return (
     <div className="cont-app">
       <h1>Estados e outras coisas</h1>
+      <PePequeno />
+      <hr />
+      <Peba />
+      <hr />
       Salario: R${salario.toFixed(2).replace('.',',')}
       <p>
         Rendimento: R${rendimento}
