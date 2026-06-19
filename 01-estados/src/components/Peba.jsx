@@ -1,6 +1,4 @@
 import { useState } from "react";
-
-
 function Peba() {
     const[resultado, setResultado] = useState()
     
@@ -15,8 +13,6 @@ function Peba() {
         <h2>Peba e o campeonato</h2>
         <button onClick={calcularPontos}>Calcular os pontos</button>
         {resultado && <p>Pontos: {resultado}</p>}
-        
-        
     </div>
   )
 }
