@@ -31,5 +31,7 @@ Repositorio para armazenar as aventuras das sextas no curso de sexta sobre react
 
 
 
-## Diversos
+### Diversos
 [Desafio Rock in Reels](https://www.notion.so/rafaellindemann/0062-A-Saga-da-Cria-o-do-Rock-in-Reels-36ed393ff68e802cb678ede36bbb728b)
+
+[Meet pra streamar](https://meet.google.com/yzn-qqpz-fvg)

@@ -13,6 +13,8 @@ function Peba() {
         <h2>Peba e o campeonato</h2>
         <button onClick={calcularPontos}>Calcular os pontos</button>
         {resultado && <p>Pontos: {resultado}</p>}
+        {/* <p>Pontos: {resultado}</p> */}
+        {resultado == 10 && <p>Estou renderizado</p>}
     </div>
   )
 }

@@ -2,6 +2,7 @@ import './App.css'
 import { useState } from 'react'
 import Peba from './components/Peba'
 import PePequeno from './components/PePequeno'
+import RenderCondicional from './components/RenderCondicional'
 
 
 function App() {
@@ -23,6 +24,8 @@ function App() {
   return (
     <div className="cont-app">
       <h1>Estados e outras coisas</h1>
+      <RenderCondicional />
+      <hr />
       <PePequeno />
       <hr />
       <Peba />
