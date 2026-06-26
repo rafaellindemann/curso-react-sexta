@@ -20,6 +20,17 @@ button{
   background-color: aquamarine;
 }
 
+button:hover{
+  background-color: aqua;
+  scale: 1.02;
+  /* rafaelld@edu.sc.senai.br */
+}
+
+button:active{
+  text-shadow: 0 0 5px black;
+
+}
+
 .counter {
   font-size: 16px;
   padding: 5px 10px;
