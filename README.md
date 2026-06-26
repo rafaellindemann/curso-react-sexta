@@ -29,6 +29,7 @@ Repositorio para armazenar as aventuras das sextas no curso de sexta sobre react
 
 [useState](https://rafaellindemann.notion.site/0020-useState-wip-778661dee1604e71abaa9b98a7d2f554?pvs=25)
 
+[inputs controlados](https://rafaellindemann.notion.site/0021-Input-controlado-3b2d8fc0729944d58c407ba818248bd1)
 
 
 ### Diversos

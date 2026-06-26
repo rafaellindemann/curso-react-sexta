@@ -1,3 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.capitulos{
+  margin: 10px;
+  padding: 20px;
+  box-shadow: 0 0 10px gray;
+  border-radius: 10px;
+}
+
+button{
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 15px;
+  background-color: aquamarine;
+}
+
 .counter {
   font-size: 16px;
   padding: 5px 10px;
