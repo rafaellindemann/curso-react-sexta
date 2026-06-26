@@ -30,3 +30,6 @@ Repositorio para armazenar as aventuras das sextas no curso de sexta sobre react
 [useState](https://rafaellindemann.notion.site/0020-useState-wip-778661dee1604e71abaa9b98a7d2f554?pvs=25)
 
 
+
+## Diversos
+[Desafio Rock in Reels](https://www.notion.so/rafaellindemann/0062-A-Saga-da-Cria-o-do-Rock-in-Reels-36ed393ff68e802cb678ede36bbb728b)
