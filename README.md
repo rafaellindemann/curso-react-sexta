@@ -30,8 +30,8 @@ Repositorio para armazenar as aventuras das sextas no curso de sexta sobre react
 
 [inputs controlados](https://rafaellindemann.notion.site/0021-Input-controlado-3b2d8fc0729944d58c407ba818248bd1)
 
-[Copa do Mundo Cringe](https://app.notion.com/p/rafaellindemann/0070-Copa-do-Mundo-Cringe-21fd393ff68e8050aebce18aba5a3778)
-[Repositório pra Copa do Mundo Cringe](https://github.com/rafaellindemann/sorteador-de-jogos)
+>> [Copa do Mundo Cringe](https://app.notion.com/p/rafaellindemann/0070-Copa-do-Mundo-Cringe-21fd393ff68e8050aebce18aba5a3778)
+>> [Repositório pra Copa do Mundo Cringe](https://github.com/rafaellindemann/sorteador-de-jogos)
 
 
 
