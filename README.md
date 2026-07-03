@@ -5,6 +5,7 @@ Repositorio para armazenar as aventuras das sextas no curso de sexta sobre react
 ### Exercícios para estados
 [Lista de exercícios básica](https://rafaellindemann.notion.site/0011-Exerc-cios-iniciais-de-l-gica-333d393ff68e8049a083f61d5822ef1e)
 
+
 ### Materiais
 
 [Jamanjo](https://www.jamanjo.com.br/)
@@ -23,16 +24,24 @@ Repositorio para armazenar as aventuras das sextas no curso de sexta sobre react
 
 [CSS no React](https://rafaellindemann.notion.site/0018-CSS-no-React-bed722f231c143678f8e1afed9308759?pvs=25)
 
-
 [Renderização Condicional](https://rafaellindemann.notion.site/0019-Renderiza-o-condicional-no-React-c97c4eada347444d8e347c51867814b0?pvs=25)
-
 
 [useState](https://rafaellindemann.notion.site/0020-useState-wip-778661dee1604e71abaa9b98a7d2f554?pvs=25)
 
 [inputs controlados](https://rafaellindemann.notion.site/0021-Input-controlado-3b2d8fc0729944d58c407ba818248bd1)
 
+[Copa do Mundo Cringe](https://app.notion.com/p/rafaellindemann/0070-Copa-do-Mundo-Cringe-21fd393ff68e8050aebce18aba5a3778)
+[Repositório pra Copa do Mundo Cringe](https://github.com/rafaellindemann/sorteador-de-jogos)
+
+
+
 
 ### Diversos
 [Desafio Rock in Reels](https://www.notion.so/rafaellindemann/0062-A-Saga-da-Cria-o-do-Rock-in-Reels-36ed393ff68e802cb678ede36bbb728b)
 
+
 [Meet pra streamar](https://meet.google.com/yzn-qqpz-fvg)
+
+
+
+
