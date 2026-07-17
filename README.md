@@ -33,7 +33,7 @@ Repositorio para armazenar as aventuras das sextas no curso de sexta sobre react
 -- [Copa do Mundo Cringe](https://app.notion.com/p/rafaellindemann/0070-Copa-do-Mundo-Cringe-21fd393ff68e8050aebce18aba5a3778)
 -- [Repositório pra Copa do Mundo Cringe](https://github.com/rafaellindemann/sorteador-de-jogos)
 
-
+-- [Atividade da Farmarcia](https://app.notion.com/p/rafaellindemann/Farm-rcia-fa9fa9e9849344aca910e3800fcdc2ed)
 
 
 ### Diversos
