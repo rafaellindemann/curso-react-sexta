@@ -1,7 +1,15 @@
 .cabecalho{
-    background-color: aqua;
+    background-color: var(--cor-4);
+    color: var(--cor-5);
+    height: 70px;
+    font-size: 48px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
     /* transform: rotate(90deg); */
-    
-    text-orientation: upright;
-    writing-mode: vertical-lr;
+    /* text-orientation: upright;
+    writing-mode: vertical-lr; */
 }

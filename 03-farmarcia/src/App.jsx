@@ -1,14 +1,19 @@
 import { useState } from 'react'
 import './App.css'
 import Cabecalho from './components/Cabecalho'
+import Convite from './components/Convite'
+import GeradorDeSenha from './components/GeradorDeSenha'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
-    <Cabecalho />
-    // <Convite />
-    // <GeradorSenha />
+    
+    <div className="cont-app">
+      <Cabecalho />
+      <Convite />
+      <GeradorDeSenha />
+
+    </div>
   )
 }
 
