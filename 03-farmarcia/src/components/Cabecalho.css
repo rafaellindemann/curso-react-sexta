@@ -3,11 +3,17 @@
     color: var(--cor-5);
     height: 70px;
     font-size: 48px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
     display: flex;
     justify-content: center;
     align-items: center;
+
+    text-shadow: 0 0 10px var(--cor-3);
+    box-shadow: 0 0 5px #00000071;
+
+    border-radius: 0 0 10px 10px ;
+
+    /* margin: 0 10px; */
 
     /* transform: rotate(90deg); */
     /* text-orientation: upright;

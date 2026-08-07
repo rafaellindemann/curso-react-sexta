@@ -1,4 +1,4 @@
-
+import './Convite.css'
 function Convite() {
   return (
     <div className='cont-convite'>

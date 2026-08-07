@@ -1,0 +1,15 @@
+.cont-convite{
+    background-color: var(--cor-3);
+    color: var(--cor-5);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #00000071;
+
+    min-height: 100px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
