@@ -35,6 +35,8 @@ Repositorio para armazenar as aventuras das sextas no curso de sexta sobre react
 
 -- [Atividade da Farmarcia](https://app.notion.com/p/rafaellindemann/Farm-rcia-fa9fa9e9849344aca910e3800fcdc2ed)
 
+-- [Repo template de projeto (router+context)](https://github.com/rafaellindemann/templateReactRouterContext)
+
 
 ### Diversos
 [Desafio Rock in Reels](https://www.notion.so/rafaellindemann/0062-A-Saga-da-Cria-o-do-Rock-in-Reels-36ed393ff68e802cb678ede36bbb728b)
