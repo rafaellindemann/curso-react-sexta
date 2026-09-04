@@ -49,6 +49,7 @@ Repositorio para armazenar as aventuras das sextas no curso de sexta sobre react
 
 
 [Meet pra streamar](https://meet.google.com/yzn-qqpz-fvg)
+-- [Entrega do repo do FoodPark](https://docs.google.com/spreadsheets/d/1HBW_zoArxs1cIjI-WVnGPtNYmVd-LCnyk0gNtX4PukI/edit?usp=sharing)
 
 
 
