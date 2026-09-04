@@ -41,7 +41,8 @@ Repositorio para armazenar as aventuras das sextas no curso de sexta sobre react
 -- [Food Park](https://app.notion.com/p/rafaellindemann/Food-Park-PARQUE-DE-COMIDA-303d393ff68e805cbbc5e6b4a2b961a1)
 -- [Repo do Food Park que estamos criando](https://github.com/rafaellindemann/foodPark)
 
--- colocar o link para o uCrud
+
+-- [Repo do uCrud](https://github.com/rafaellindemann/uCRUD-fullJS)
 
 ### Diversos
 [Desafio Rock in Reels](https://www.notion.so/rafaellindemann/0062-A-Saga-da-Cria-o-do-Rock-in-Reels-36ed393ff68e802cb678ede36bbb728b)
